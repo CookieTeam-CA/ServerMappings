@@ -2,6 +2,7 @@
     "id": "cookieattack",
     "name": "CookieAttack",
     "description": "German SMP Server with special Features!",
+    "website": "https://www.cookieattack.de",
     "addresses": [
         "cookieattack.de"
     ],
